@@ -91,7 +91,7 @@ export const getStaticProps = async () => {
         {
           id: "2",
           image: "/images/2025/sachin.jpg",
-          name: "Sachin Kushwah",
+          name: "Sachin Kumar",
           redirect: "https://www.linkedin.com/in/sachin-kushwaha1/",
         },
         {
