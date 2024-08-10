@@ -221,7 +221,7 @@ export const getStaticProps = async () => {
         {
           id: "5",
           image:
-            "/images/2023/Payal.jpeg",
+            "/images/2023/payal.jpeg",
           name: "Payal Soni",
           redirect: "https://www.facebook.com/profile.php?id=100063462570698",
         },
