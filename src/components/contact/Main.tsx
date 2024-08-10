@@ -42,7 +42,7 @@ const Main = () => {
                 // bgGradient="linear(to-l, #e3a7f9, #fbec8f)"
                 bgClip="text"
               >
-                osoc@nitt.edu
+                osocnitt@gmail.com
               </Text>
             </Box>
             <Text
@@ -54,8 +54,8 @@ const Main = () => {
             >
               To contact us kindly use the following contact details.<br /><br />
               Phone Number: +91 7840883262 (Sachin Kumar)<br />
-              Email: osocnitt@gmail.com<br />
               Facebook Page: <a href="http://facebook.com/osocnitt" target="_blank" rel="noopener noreferrer">http://facebook.com/osocnitt</a>
+              Instagram Page: <a href="https://www.instagram.com/osoc_nitt/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/osoc_nitt/</a>
             </Text>
             <Button
               as={Link}
