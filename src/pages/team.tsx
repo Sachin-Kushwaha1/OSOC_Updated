@@ -90,7 +90,7 @@ export const getStaticProps = async () => {
         },
         {
           id: "2",
-          image: "/images/2025/sachin.jpg",
+          image: "/images/2025/sachin.jpeg",
           name: "Sachin Kumar",
           redirect: "https://www.linkedin.com/in/sachin-kushwaha1/",
         },
