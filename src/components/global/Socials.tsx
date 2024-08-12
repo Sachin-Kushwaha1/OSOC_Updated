@@ -1,6 +1,6 @@
 import { HStack, Icon, Link } from "@chakra-ui/react";
 import React from "react";
-import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa"; // Updated import
+import { FaFacebookF, FaInstagram, FaLinkedin , FaGithub } from "react-icons/fa"; // Updated import
 
 interface Props {
   variant?: "NAV" | "FOOTER";
