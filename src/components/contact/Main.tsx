@@ -55,7 +55,8 @@ const Main = () => {
               To contact us kindly use the following contact details.<br /><br />
               Phone Number: +91 7840883262 (Sachin Kumar)<br />
               Facebook Page: <a href="http://facebook.com/osocnitt" target="_blank" rel="noopener noreferrer">http://facebook.com/osocnitt</a><br />
-              Instagram Page: <a href="https://www.instagram.com/osoc_nitt/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/osoc_nitt/</a><br />
+              Instagram Page: <a href="https://www.instagram.com/osoc_nitt/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/osoc_nitt</a><br />
+              Github Page: <a href="https://github.com/osocnitt-dev/" target="_blank" rel="noopener noreferrer">https://github.com/osocnitt-dev</a><br />
             </Text>
             <Button
               as={Link}
