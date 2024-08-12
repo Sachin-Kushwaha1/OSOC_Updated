@@ -26,6 +26,8 @@ const Socials = ({ variant = "NAV" }: Props) => {
       <Link href="https://www.linkedin.com/company/open-source-open-community/" isExternal aria-label="OSOC LinkedIn">
         <Icon as={FaLinkedin} />
       </Link>
+      <Link href="https://github.com/osocnitt-dev/" isExternal aria-label="OSOC GitHub">
+        <Icon as={FaGithub} />
     </HStack>
   );
 };
